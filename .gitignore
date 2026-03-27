@@ -1,0 +1,21 @@
+# Workspace
+.DS_Store
+Thumbs.db
+
+# Backend
+Backend/.env
+Backend/.venv/
+Backend/__pycache__/
+Backend/outputs/
+Backend/node_modules/
+Backend/*.pyc
+
+# Flutter app
+compress_photo/.dart_tool/
+compress_photo/.flutter-plugins-dependencies
+compress_photo/.idea/
+compress_photo/build/
+compress_photo/.pub/
+compress_photo/.pub-cache/
+compress_photo/coverage/
+compress_photo/*.iml
